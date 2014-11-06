@@ -1,0 +1,15 @@
+.add {
+  background: url('images/icons/add.png') no-repeat center center;
+}
+
+.delete {
+  background: url('images/icons/delete.png') no-repeat center center;
+}
+
+.save {
+  background: url('images/icons/save.png') no-repeat center center;
+}
+
+.refresh {
+  background: url('images/icons/refresh.png') no-repeat center center;
+}

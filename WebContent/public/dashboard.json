@@ -1,0 +1,6 @@
+{
+  MenuController: {
+    name: '自定义菜单',
+    view: 'page-menu'
+  }
+}
